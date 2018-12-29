@@ -1,0 +1,6 @@
+Two sources code for grayscale image 
+For Huffman coding, run huffman.py
+For Huffman decoding, run de_huffman.py
+
+de_huffman.py use dictionary_meo and imageinBit_meo which are created by huffman.py to re-build the tree for decoding
+meo_decompress.png is the result after decompressing
